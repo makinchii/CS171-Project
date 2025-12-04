@@ -1,0 +1,27 @@
+numpy
+pandas
+
+opencv-python
+mss
+pyautogui
+
+# Windows-only: used for grabbing the LDPlayer client window
+pywin32; platform_system == "Windows"
+
+# Optional: generic window utilities for non-windows 
+pygetwindow
+
+# Plotting & notebooksmatplotlib
+jupyter
+ipykernel
+
+scikit-learn
+torch
+torchvision
+tqdm
+
+matplotlib
+matplotlib.pyplot
+
+ipywidgets
+IPython.display
