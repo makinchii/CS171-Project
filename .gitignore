@@ -221,6 +221,5 @@ labelstudio_data/
 models/
 models/fruitninja_yolo_s_640/
 models/fruitninja_eval_s_640/
-models/fruitninja_sample_preds/
 old_work/
 dataset/yolo/
