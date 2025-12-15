@@ -206,11 +206,21 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-data/**/*.png
-data/**/*.jpg
-data/**/*.jpeg
-data/**/*.bmp
-data/**/*.gif
-data/**/*.csv
+dataset/**/*.png
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.bmp
+dataset/**/*.gif
+dataset/**/*.csv
 
-!data/**/.gitkeep
+!dataset/**/.gitkeep
+
+*.pt
+.idea
+labelstudio_data/
+models/
+models/fruitninja_yolo_s_640/
+models/fruitninja_eval_s_640/
+models/fruitninja_sample_preds/
+old_work/
+dataset/yolo/
